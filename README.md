@@ -281,4 +281,4 @@ The functional comparisons presented here do not establish patent claim coverage
 
 About the Author
 
-Mark S. Weinstein is a litigation attorney and the creator of Protocol A, the deterministic reasoning framework that became the foundation of Grounded DI LLC.
+Mark S. Weinstein is a litigation attorney and the creator of a deterministic reasoning framework that became the foundation of Grounded DI LLC.
