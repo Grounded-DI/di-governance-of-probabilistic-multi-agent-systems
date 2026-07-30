@@ -233,7 +233,7 @@ The disclosed architectures include mechanisms that could support simulated trig
 
 A controlled test could examine whether:
 
-- the expected policy version loads;
+- the expected policy version loads;   
 - the correct threshold condition activates;
 - the intended constraint path is selected;
 - the continuation gate blocks the targeted operation;
