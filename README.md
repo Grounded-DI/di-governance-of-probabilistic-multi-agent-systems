@@ -1,3 +1,5 @@
+**Grounded DI LLC**
+
 # Deterministic Intelligence and Governance of Probabilistic Multi-Agent Systems: From Detection to Verifiable Enforcement
 
 *A policy-bound governance state can travel across cooperating agents without losing version awareness or audit lineage.*
